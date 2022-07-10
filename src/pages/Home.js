@@ -54,7 +54,7 @@ function Home(){
         <section id="about">
             <h1 className="titles hover-underline-animation">About</h1>
             <div className="about-main-container">
-                <img src="../images/my-img.JPG" alt="myself-img" className="about-img"/>
+                <img src="./images/my-img.JPG" alt="myself-img" className="about-img"/>
                 <div className="about-text-container">
                     <h3>I'm a 21 years old self taught junior web developer from Argentina.</h3>
                     <h3>I started programming out of curiosity to express my creativity so I could build cool apps and learn about new technologies, and with effort and research I discovered that I am passionate about creating websites and learning about programming.</h3>
