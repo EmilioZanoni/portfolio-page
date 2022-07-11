@@ -28,9 +28,9 @@ function Home(){
 
 
     return(
-        <div className="container">
-            <Navbar />
+        <div>
         <section id="home">
+            <Navbar />
             <div class="bg"></div>
             <div class="bg bg2"></div>
             <div class="bg bg3"></div>
@@ -141,7 +141,7 @@ function Home(){
                 </div>
                 <div className="contact-box">
                     <img alt="contact-icon" src="./images/computer.png" className="contact-box-icon"/>
-                    <a href="emiliozanoni.com">emiliozanoni.com</a>
+                    <a href="https://emiliozanoni.com">emiliozanoni.com</a>
                 </div>
 
             </div>
