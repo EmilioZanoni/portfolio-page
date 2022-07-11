@@ -82,7 +82,7 @@ function Home(){
                     <li>MySQL</li>
                     <li>Bootstrap</li>
                     <li>Git</li>
-                    <li>Spanish and English lenguaje</li>
+                    <li>Languages: Spanish and English</li>
                 </ul>
             </div>
             <div className="skills-box">

@@ -207,8 +207,6 @@ width: 16px;
 
 /* ABOUT   */
 #about{
-  /* position: absolute; */
-  /* top: 200%; */
   height: 100%;
   width: 100%;
   left: 0;
@@ -369,21 +367,11 @@ width: 16px;
     gap: 2.5em;
     justify-items: center;
   }
-
   #about{
-    top: 240%;
     height: 80%;
   }
   .about-main-container{
     top: 50%;
-  }
-
-  #skills{
-    top: 320%
-  }
-
-  #contact{
-    top: 420%
   }
   .contact-container{
     display: grid;
