@@ -485,5 +485,34 @@ width: 16px;
     justify-content: center;
     align-items: center;
   }
+  }  
+}
+
+@media screen 
+ and (max-device-width: 1400px) 
+ and (min-device-width: 200px) 
+{ 
+  .bg, .bg2, .bg3{
+    background-image: linear-gradient(-60deg, #222831 50%, #00ADB5 50%);
+    animation: none;
+    width: 100%;
+    right: 0;
+    left: 0;
   }
+.navbar-nav{
+  align-items: flex-start;
+}
+.navbar-brand > h3{
+  font-size: 2.5rem;
+}
+span.navbar-toggler-icon{
+  width: 3em;
+  height: 3em;
+}
+a.nav-link{
+  font-size: 2.5rem;
+}
+.navbar>.container-fluid{
+  padding: 5% 10%;
+}
 }
